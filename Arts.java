@@ -14,5 +14,7 @@ System.out.println("B.Ed ,");
 		// TODO Auto-generated method stub
 System.out.println("BBA .");
 	}
-
+public void bBA() {
+		// TODO Auto-generated method stub
+System.out.println("chinnamani");
 }
